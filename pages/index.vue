@@ -5,6 +5,7 @@
       <h1 class="title">
         my-first-nuxt-app
       </h1>
+      <nuxt-link to="/users">users</nuxt-link>
     </div>
   </div>
 </template>
